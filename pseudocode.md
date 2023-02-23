@@ -41,7 +41,7 @@
 
         subArray = winConditions
 
-        subArray.every(element => master.includes(element)); return true or false
+        subArray.every(element => master.includes(element)); returns true or false
 
         If it returns true - YOU WIN
 
